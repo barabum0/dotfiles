@@ -13,5 +13,7 @@ Using the diff provided below, create a concise commit message following the Con
 - 🚧 chore: For maintenance tasks.
 - 🧪 test: For tests
 
+{Author's notes: "$hint"}
+
 Your response should consist solely of the commit message, without additional descriptions or formatting. Avoid verbosity, here is an output of `git diff --staged` command:
 {diff}
