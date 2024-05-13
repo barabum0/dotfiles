@@ -11,6 +11,7 @@ Using the diff provided below, create a concise commit message following the Con
 - 🚀 perf: For performance improvements.
 - 🔒 security: For security-related fixes.
 - 🚧 chore: For maintenance tasks.
+- 🧪 test: For tests
 
 Your response should consist solely of the commit message, without additional descriptions or formatting. Avoid verbosity, here is an output of `git diff --staged` command:
 {diff}
